@@ -15,6 +15,6 @@ Create a script that will loop through all the stocks for one year and output th
 * The total stock volume of the stock.
 
 ## Final Report
-[Stock Results 2014](https://github.com/jacke1980/BVA_Challenge/blob/main/stock_data/Stock%20Data%202014.png)
-[Stock Results 2015](https://github.com/jacke1980/BVA_Challenge/blob/main/stock_data/Stock%20Data%202015.png)
-[Stock Results 2016](https://github.com/jacke1980/BVA_Challenge/blob/main/stock_data/Stock%20Data%202016.png)
+* [Stock Results 2014](https://github.com/jacke1980/BVA_Challenge/blob/main/stock_data/Stock%20Data%202014.png)
+* [Stock Results 2015](https://github.com/jacke1980/BVA_Challenge/blob/main/stock_data/Stock%20Data%202015.png)
+* [Stock Results 2016](https://github.com/jacke1980/BVA_Challenge/blob/main/stock_data/Stock%20Data%202016.png)

@@ -16,7 +16,7 @@ Create a script that will loop through all the stocks for one year and output th
 
 ## Alphabetical_testing
 ![alphabetical_testing](https://user-images.githubusercontent.com/85952426/166065231-3fac1318-2fef-4499-8a69-728fdab43e96.png)
-* [Testing Code] (https://github.com/jacke1980/BVA_Challenge/blob/main/Test_Data/alphabetical_testing.cls)
+* [Testing Code](https://github.com/jacke1980/BVA_Challenge/blob/main/Test_Data/alphabetical_testing.cls)
 
 ## Final Report
 * [Stock 2014 Results ](https://github.com/jacke1980/BVA_Challenge/blob/main/stock_data/Stock%20Data%202014.png)

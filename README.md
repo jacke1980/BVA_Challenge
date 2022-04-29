@@ -1,5 +1,11 @@
 # BVA_Challenge
+
+## Background 
+With this assignment, we use VBA scripting to analyze real stock market data.
+We use Test Data to develope our script, and Stock Data to Run the script on this data to generate the final report.
+
 ![stockmarket](https://user-images.githubusercontent.com/85952426/166062402-eb8a56fc-021f-4845-9980-3bc5c1ddc384.jpg)
+
 
 ## Stock Market Analyst
 Create a script that will loop through all the stocks for one year and output the following information:

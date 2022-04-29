@@ -14,3 +14,7 @@ Create a script that will loop through all the stocks for one year and output th
 * The percent change from opening price at the beginning of a given year to the closing price at the end of that year.
 * The total stock volume of the stock.
 
+## Final Report
+[Stock Results 2014](https://github.com/jacke1980/BVA_Challenge/blob/main/stock_data/Stock%20Data%202014.png)
+[Stock Results 2015](https://github.com/jacke1980/BVA_Challenge/blob/main/stock_data/Stock%20Data%202015.png)
+[Stock Results 2016](https://github.com/jacke1980/BVA_Challenge/blob/main/stock_data/Stock%20Data%202016.png)
